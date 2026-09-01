@@ -13,6 +13,7 @@
   "packageManager": "pnpm@10.10.0",
   "dependencies": {
     "dotenv": "17.4.2",
+    "openai": "^7.8.0",
     "telegraf": "4.16.3"
   },
   "devDependencies": {
