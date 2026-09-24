@@ -8,6 +8,7 @@ import './bot-updates/review.js';
 import './bot-updates/reset.js';
 import './bot-updates/add.js';
 import './bot-updates/words.js';
+import './bot-updates/delete.js';
 import './bot-updates/text.js';
 
 bot.launch();
