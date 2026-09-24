@@ -2,12 +2,17 @@ import { message } from "telegraf/filters";
 import { bot } from "../bot-init";
 import { askAI } from "../ai";
 import { handleAdd } from "../utils/handle-add";
+import { handleDelete } from "../utils/handle-delete";
 import { reviewAnswer } from "../utils/review-answer";
-import { pendingAdd, sessions } from "../state";
+import { pendingAdd, pendingDelete, sessions } from "../state";
 
 bot.on(message('text'), async (ctx) => {
   if (pendingAdd.delete(ctx.chat.id)) {
     await handleAdd(ctx, ctx.message.text.trim());
+    return;
+  }
+  if (pendingDelete.delete(ctx.chat.id)) {
+    await handleDelete(ctx, ctx.message.text.trim());
     return;
   }
   if (sessions.has(ctx.chat.id)) {
