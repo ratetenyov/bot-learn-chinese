@@ -5,5 +5,4 @@ dist/
 build/
 .next/
 .DS_Store
-data/
 .claude

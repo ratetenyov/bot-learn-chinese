@@ -1,0 +1,714 @@
+{
+  "现在": {
+    "original": "现在",
+    "pinyin": "xiànzài",
+    "translation": "сейчас",
+    "addedAt": "2026-09-01T07:48:03.725Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:14.324Z"
+  },
+  "中国": {
+    "original": "中国",
+    "pinyin": "zhōngguó",
+    "translation": "Китай",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:21.854Z"
+  },
+  "的": {
+    "original": "的",
+    "pinyin": "de",
+    "translation": "(частица, указывающая на принадлежность)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:28.670Z"
+  },
+  "孩子": {
+    "original": "孩子",
+    "pinyin": "háizi",
+    "translation": "ребёнок",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:36.406Z"
+  },
+  "有": {
+    "original": "有",
+    "pinyin": "yǒu",
+    "translation": "иметь",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:43.001Z"
+  },
+  "点儿": {
+    "original": "点儿",
+    "pinyin": "diǎnr",
+    "translation": "немного",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:36:56.503Z"
+  },
+  "太": {
+    "original": "太",
+    "pinyin": "tài",
+    "translation": "слишком",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:03.780Z"
+  },
+  "胖": {
+    "original": "胖",
+    "pinyin": "pàng",
+    "translation": "толстый",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:10.100Z"
+  },
+  "了": {
+    "original": "了",
+    "pinyin": "le",
+    "translation": "(частица, указывающая на изменение состояния)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:19.177Z"
+  },
+  "男孩子": {
+    "original": "男孩子",
+    "pinyin": "nán háizi",
+    "translation": "мальчик",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:29.880Z"
+  },
+  "比": {
+    "original": "比",
+    "pinyin": "bǐ",
+    "translation": "чем",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:39.464Z"
+  },
+  "女孩子": {
+    "original": "女孩子",
+    "pinyin": "nǚ háizi",
+    "translation": "девочка",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:37:54.909Z"
+  },
+  "更": {
+    "original": "更",
+    "pinyin": "gèng",
+    "translation": "более",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:05.417Z"
+  },
+  "很多": {
+    "original": "很多",
+    "pinyin": "hěn duō",
+    "translation": "очень много",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:49:12.445Z"
+  },
+  "爸爸": {
+    "original": "爸爸",
+    "pinyin": "bàba",
+    "translation": "папа",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:24.324Z"
+  },
+  "和": {
+    "original": "和",
+    "pinyin": "hé",
+    "translation": "и",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:31.212Z"
+  },
+  "妈妈": {
+    "original": "妈妈",
+    "pinyin": "māma",
+    "translation": "мама",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:37.781Z"
+  },
+  "觉得": {
+    "original": "觉得",
+    "pinyin": "juéde",
+    "translation": "считать, думать",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:50.956Z"
+  },
+  "一点": {
+    "original": "一点",
+    "pinyin": "yīdiǎn",
+    "translation": "немного",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:38:59.421Z"
+  },
+  "儿": {
+    "original": "儿",
+    "pinyin": "ér",
+    "translation": "(суффикс, указывающий на уменьшительность)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:09.061Z"
+  },
+  "是": {
+    "original": "是",
+    "pinyin": "shì",
+    "translation": "быть",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:16.071Z"
+  },
+  "好事": {
+    "original": "好事",
+    "pinyin": "hǎoshì",
+    "translation": "хорошее дело",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:49:19.106Z"
+  },
+  "因为": {
+    "original": "因为",
+    "pinyin": "yīnwèi",
+    "translation": "потому что",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:35.794Z"
+  },
+  "看起来": {
+    "original": "看起来",
+    "pinyin": "kàn qǐlái",
+    "translation": "выглядеть",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:44.306Z"
+  },
+  "身体": {
+    "original": "身体",
+    "pinyin": "shēntǐ",
+    "translation": "тело",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:52.863Z"
+  },
+  "好": {
+    "original": "好",
+    "pinyin": "hǎo",
+    "translation": "хороший",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:39:59.367Z"
+  },
+  "但是": {
+    "original": "但是",
+    "pinyin": "dànshì",
+    "translation": "но",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:40:33.090Z"
+  },
+  "医生": {
+    "original": "医生",
+    "pinyin": "yīshēng",
+    "translation": "врач",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:40:48.438Z"
+  },
+  "说": {
+    "original": "说",
+    "pinyin": "shuō",
+    "translation": "говорить",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:41:01.244Z"
+  },
+  "对": {
+    "original": "对",
+    "pinyin": "duì",
+    "translation": "правильный, к",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:41:16.966Z"
+  },
+  "不好": {
+    "original": "不好",
+    "pinyin": "bù hǎo",
+    "translation": "плохо",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:41:24.416Z"
+  },
+  "在": {
+    "original": "在",
+    "pinyin": "zài",
+    "translation": "в, на",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:41:33.348Z"
+  },
+  "一些": {
+    "original": "一些",
+    "pinyin": "yīxiē",
+    "translation": "некоторые",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:49:26.299Z"
+  },
+  "地方": {
+    "original": "地方",
+    "pinyin": "dìfāng",
+    "translation": "места",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:41:51.833Z"
+  },
+  "比如": {
+    "original": "比如",
+    "pinyin": "bǐrú",
+    "translation": "например",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:42:09.392Z"
+  },
+  "湖南": {
+    "original": "湖南",
+    "pinyin": "húnán",
+    "translation": "Хунань (провинция)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:42:21.501Z"
+  },
+  "吃了": {
+    "original": "吃了",
+    "pinyin": "chīle",
+    "translation": "поел",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:42:29.016Z"
+  },
+  "油": {
+    "original": "油",
+    "pinyin": "yóu",
+    "translation": "масло",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:42:43.167Z"
+  },
+  "所以": {
+    "original": "所以",
+    "pinyin": "suǒyǐ",
+    "translation": "поэтому",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:42:55.224Z"
+  },
+  "为什么": {
+    "original": "为什么",
+    "pinyin": "wèishéme",
+    "translation": "почему",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:05.544Z"
+  },
+  "会变": {
+    "original": "会变",
+    "pinyin": "huì biàn",
+    "translation": "может измениться",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:16.475Z"
+  },
+  "第一": {
+    "original": "第一",
+    "pinyin": "dì yī",
+    "translation": "первый",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:24.111Z"
+  },
+  "吃饭": {
+    "original": "吃饭",
+    "pinyin": "chīfàn",
+    "translation": "есть (принимать пищу)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:33.195Z"
+  },
+  "太快": {
+    "original": "太快",
+    "pinyin": "tài kuài",
+    "translation": "слишком быстро",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:42.181Z"
+  },
+  "吃得": {
+    "original": "吃得",
+    "pinyin": "chī de",
+    "translation": "есть (в таком количестве)",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:43:52.061Z"
+  },
+  "太多": {
+    "original": "太多",
+    "pinyin": "tài duō",
+    "translation": "слишком много",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:00.264Z"
+  },
+  "第二": {
+    "original": "第二",
+    "pinyin": "dì èr",
+    "translation": "второй",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:09.598Z"
+  },
+  "喜欢": {
+    "original": "喜欢",
+    "pinyin": "xǐhuān",
+    "translation": "нравиться",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:18.402Z"
+  },
+  "玩": {
+    "original": "玩",
+    "pinyin": "wán",
+    "translation": "играть",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:24.960Z"
+  },
+  "手机": {
+    "original": "手机",
+    "pinyin": "shǒujī",
+    "translation": "мобильный телефон",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:34.753Z"
+  },
+  "不": {
+    "original": "不",
+    "pinyin": "bù",
+    "translation": "не",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:44:42.401Z"
+  },
+  "运动": {
+    "original": "运动",
+    "pinyin": "yùndòng",
+    "translation": "заниматься спортом",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:01.981Z"
+  },
+  "第三": {
+    "original": "第三",
+    "pinyin": "dì sān",
+    "translation": "третий",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:09.514Z"
+  },
+  "如果": {
+    "original": "如果",
+    "pinyin": "rúguǒ",
+    "translation": "если",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:17.069Z"
+  },
+  "很胖": {
+    "original": "很胖",
+    "pinyin": "hěn pàng",
+    "translation": "очень толстый",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:28.071Z"
+  },
+  "也": {
+    "original": "也",
+    "pinyin": "yě",
+    "translation": "тоже",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:41.090Z"
+  },
+  "可能": {
+    "original": "可能",
+    "pinyin": "kěnéng",
+    "translation": "возможно",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:50.867Z"
+  },
+  "会": {
+    "original": "会",
+    "pinyin": "huì",
+    "translation": "мочь, уметь",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:45:58.624Z"
+  },
+  "让": {
+    "original": "让",
+    "pinyin": "ràng",
+    "translation": "позволять, заставлять",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:46:07.552Z"
+  },
+  "人生": {
+    "original": "人生",
+    "pinyin": "rénshēng",
+    "translation": "жизнь",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:46:25.556Z"
+  },
+  "病": {
+    "original": "病",
+    "pinyin": "bìng",
+    "translation": "болезнь",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:46:35.215Z"
+  },
+  "大家": {
+    "original": "大家",
+    "pinyin": "dàjiā",
+    "translation": "все",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:46:44.394Z"
+  },
+  "要": {
+    "original": "要",
+    "pinyin": "yào",
+    "translation": "нужно",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:46:57.353Z"
+  },
+  "多": {
+    "original": "多",
+    "pinyin": "duō",
+    "translation": "много",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:47:03.989Z"
+  },
+  "吃": {
+    "original": "吃",
+    "pinyin": "chī",
+    "translation": "есть",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:47:14.966Z"
+  },
+  "水果": {
+    "original": "水果",
+    "pinyin": "shuǐguǒ",
+    "translation": "фрукты",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:47:25.162Z"
+  },
+  "菜": {
+    "original": "菜",
+    "pinyin": "cài",
+    "translation": "овощи",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:47:33.665Z"
+  },
+  "慢慢地": {
+    "original": "慢慢地",
+    "pinyin": "mànmàn de",
+    "translation": "медленно",
+    "addedAt": "2026-09-01T07:48:03.727Z",
+    "stage": "7d",
+    "stageEnteredAt": "2026-09-26T08:47:44.953Z"
+  },
+  "儿子": {
+    "original": "儿子",
+    "pinyin": "érzi",
+    "translation": "сын",
+    "addedAt": "2026-09-15T04:56:52.476Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:43:22.049Z"
+  },
+  "第一次": {
+    "original": "第一次",
+    "pinyin": "dì yī cì",
+    "translation": "впервые",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:43:35.556Z"
+  },
+  "去": {
+    "original": "去",
+    "pinyin": "qù",
+    "translation": "идти; ехать; направляться",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:43:46.007Z"
+  },
+  "上": {
+    "original": "上",
+    "pinyin": "shàng",
+    "translation": "ходить на; посещать; вверх",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:43:57.106Z"
+  },
+  "游泳": {
+    "original": "游泳",
+    "pinyin": "yóuyǒng",
+    "translation": "плавание",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:47:33.900Z"
+  },
+  "课": {
+    "original": "课",
+    "pinyin": "kè",
+    "translation": "урок",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:44:17.441Z"
+  },
+  "上了": {
+    "original": "上了",
+    "pinyin": "shàng le",
+    "translation": "пошёл/посетил (прошедшее) / сел в (транспорт) — зависит от контекста",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:44:27.412Z"
+  },
+  "三十": {
+    "original": "三十",
+    "pinyin": "sānshí",
+    "translation": "тридцать",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:44:41.413Z"
+  },
+  "分钟": {
+    "original": "分钟",
+    "pinyin": "fēnzhōng",
+    "translation": "минута(ы)",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:44:52.146Z"
+  },
+  "他": {
+    "original": "他",
+    "pinyin": "tā",
+    "translation": "он",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:44:59.189Z"
+  },
+  "就": {
+    "original": "就",
+    "pinyin": "jiù",
+    "translation": "тогда; именно; как раз; сразу",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:45:11.435Z"
+  },
+  "老师": {
+    "original": "老师",
+    "pinyin": "lǎoshī",
+    "translation": "учитель",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:45:19.558Z"
+  },
+  "我": {
+    "original": "我",
+    "pinyin": "wǒ",
+    "translation": "я",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:45:27.096Z"
+  },
+  "今天": {
+    "original": "今天",
+    "pinyin": "jīntiān",
+    "translation": "сегодня",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:45:34.728Z"
+  },
+  "不想": {
+    "original": "不想",
+    "pinyin": "bù xiǎng",
+    "translation": "не хотеть",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:45:44.945Z"
+  },
+  "问": {
+    "original": "问",
+    "pinyin": "wèn",
+    "translation": "спрашивать",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:00.338Z"
+  },
+  "呢": {
+    "original": "呢",
+    "pinyin": "ne",
+    "translation": "частица (вопросительная/эмфатическая)",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:07.589Z"
+  },
+  "真的": {
+    "original": "真的",
+    "pinyin": "zhēn de",
+    "translation": "действительно; правда",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:17.012Z"
+  },
+  "再": {
+    "original": "再",
+    "pinyin": "zài",
+    "translation": "снова; ещё раз",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:28.791Z"
+  },
+  "喝水": {
+    "original": "喝水",
+    "pinyin": "hē shuǐ",
+    "translation": "пить воду",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:38.733Z"
+  },
+  "喝得": {
+    "original": "喝得",
+    "pinyin": "hē de",
+    "translation": "пить (с дополнением степени/результата)",
+    "addedAt": "2026-09-15T04:56:52.479Z",
+    "stage": "3d",
+    "stageEnteredAt": "2026-09-26T07:46:47.851Z"
+  }
+}
