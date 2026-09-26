@@ -710,5 +710,141 @@
     "addedAt": "2026-09-15T04:56:52.479Z",
     "stage": "3d",
     "stageEnteredAt": "2026-09-26T07:46:47.851Z"
+  },
+  "腿": {
+    "original": "腿",
+    "pinyin": "tuǐ",
+    "translation": "нога (от бедра до колена), бедро/голень в зависимости от контекста",
+    "addedAt": "2026-09-26T09:08:02.379Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.379Z"
+  },
+  "脚": {
+    "original": "脚",
+    "pinyin": "jiǎo",
+    "translation": "ступня; также нога (внизу) или единица измерения/ноги предмета",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "大腿": {
+    "original": "大腿",
+    "pinyin": "dàtuǐ",
+    "translation": "бедро, верхняя часть ноги",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "膝盖": {
+    "original": "膝盖",
+    "pinyin": "xīgài",
+    "translation": "колено",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "腰": {
+    "original": "腰",
+    "pinyin": "yāo",
+    "translation": "талия, поясница",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "肩膀": {
+    "original": "肩膀",
+    "pinyin": "jiānbǎng",
+    "translation": "плечо",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "手臂": {
+    "original": "手臂",
+    "pinyin": "shǒubì",
+    "translation": "рука (от плеча до запястья), предплечье и плечо в общем",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "前臂": {
+    "original": "前臂",
+    "pinyin": "qiánbì",
+    "translation": "предплечье",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "肘部": {
+    "original": "肘部",
+    "pinyin": "zhǒubù",
+    "translation": "локоть",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "手腕": {
+    "original": "手腕",
+    "pinyin": "shǒuwàn",
+    "translation": "запястье",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "重心": {
+    "original": "重心",
+    "pinyin": "zhòngxīn",
+    "translation": "центр тяжести, тяжести́льная точка",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "脚步": {
+    "original": "脚步",
+    "pinyin": "jiǎobù",
+    "translation": "шаги, походка",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "移动": {
+    "original": "移动",
+    "pinyin": "yídòng",
+    "translation": "двигаться, перемещать(ся)",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "往前": {
+    "original": "往前",
+    "pinyin": "wǎng qián",
+    "translation": "вперед, к передней части",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "往后": {
+    "original": "往后",
+    "pinyin": "wǎng hòu",
+    "translation": "назад, к задней части",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "往左": {
+    "original": "往左",
+    "pinyin": "wǎng zuǒ",
+    "translation": "налево",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
+  },
+  "往右": {
+    "original": "往右",
+    "pinyin": "wǎng yòu",
+    "translation": "направо",
+    "addedAt": "2026-09-26T09:08:02.380Z",
+    "stage": "1d",
+    "stageEnteredAt": "2026-09-26T09:08:02.380Z"
   }
 }
